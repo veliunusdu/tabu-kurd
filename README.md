@@ -1,4 +1,4 @@
-# Kurdish Taboo - Taboya Kurdî - تابۆی کوردی
+# Kurdish Taboo
 
 A comprehensive multilingual Kurdish word guessing game built with Flutter! Perfect for family gatherings and friends. Now supports **Kurmanci (Northern Kurdish)**, **Sorani (Central Kurdish)**, and **Turkish**.
 
@@ -158,12 +158,6 @@ lib/
 - ✅ macOS (Desktop experience)
 - ✅ Linux (Desktop experience)
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (3.9.0 or higher)
-- Dart SDK
-- Development environment (Android Studio/VS Code)
 
 ### Installation & Run
 ```bash
@@ -199,11 +193,9 @@ flutter run -d android         # Android device/emulator
 
 ## 🔮 Future Enhancements
 
-- [ ] **Sound Effects**: Audio feedback for actions
 - [ ] **Card Collections**: Themed card packs
 - [ ] **Statistics**: Game history and performance tracking
 - [ ] **Custom Cards**: User-created word cards
-- [ ] **Network Play**: Remote team participation
 - [ ] **More Languages**: Additional Kurdish dialects
 
 ## 🤝 Contributing
@@ -215,23 +207,9 @@ We welcome contributions for:
 - Bug fixes and optimizations
 - Translation improvements
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🏆 Credits
 
 - **Languages**: Kurmanci, Sorani, Turkish communities
-- **Development**: GitHub Copilot & Flutter team
-- **Design**: Material Design principles
 - **Cultural Consultant**: Kurdish language experts
 
----
-
-**بە خۆشییەوە یاری بکەن! (Kurmanci)**  
-**Bi kêfa xwe lîstik bikin! (Sorani)**  
-**Oyunun tadını çıkarın! (Turkish)**
-
----
-
-*Made with ❤️ for the Kurdish community and language preservation*
