@@ -2,7 +2,13 @@
 
 A comprehensive multilingual Kurdish word guessing game built with Flutter! Perfect for family gatherings and friends. Now supports **Kurmanci (Northern Kurdish)**, **Sorani (Central Kurdish)**, and **Turkish**.
 
+## About This Project
+
+This app was built
+with the help of AI (GitHub Copilot).
+
 ## 🌟 New Features
+
 
 ### 🎮 Enhanced Game Features
 - **Multi-language Support**: Full support for Kurmanci, Sorani, and Turkish
