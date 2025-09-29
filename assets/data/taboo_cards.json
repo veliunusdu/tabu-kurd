@@ -2,43 +2,43 @@
   "kurmanci": {
     "family": [
       { "word": "Netflix", "tabooWords": ["Fîlm", "Dizî", "Tor", "Sinema", "Program"] },
-      { "word": "TikTok", "tabooWords": ["Klîp", "Stran", "Danç", "Moda", "Weşan"] },
+      { "word": "TikTok", "tabooWords": ["Klîp", "Stran", "Dans", "Moda", "Weşan"] },
       { "word": "Instagram", "tabooWords": ["Wêne", "Çîrok", "Like", "Heval", "Post"] },
       { "word": "YouTube", "tabooWords": ["Kanal", "Klip", "Stran", "Abone", "Vîdeo"] },
       { "word": "Spotify", "tabooWords": ["Stran", "Mûzîk", "Lîst", "Deng", "Hevpeyivîn"] },
-      { "word": "Facebook", "tabooWords": ["Heval", "Post", "Civakî", "Mesac", "Like"] },
-      { "word": "Telegram", "tabooWords": ["Mesac", "Grup", "Code", "App", "Weşan"] },
+      { "word": "Facebook", "tabooWords": ["Heval", "Post", "Civakî", "Mesac/Peyam", "Like"] },
+      { "word": "Telegram", "tabooWords": ["Mesac/Peyam", "Grup", "Kod", "App", "Weşan"] },
       { "word": "WhatsApp", "tabooWords": ["Peyam", "Grup", "Deng", "Foto", "Weşan"] },
-      { "word": "Twitter", "tabooWords": ["Tweet", "Nivîs", "Like", "Share", "Mesac"] },
+      { "word": "Twitter", "tabooWords": ["Tweet", "Nivîs", "Like", "Parve Kirin", "Mesac/Peyam"] },
       { "word": "Snapchat", "tabooWords": ["Foto", "Wêne", "App", "Stran", "Çalakî"] },
       { "word": "Game of Thrones", "tabooWords": ["Ejder", "Zivistan", "Dizî", "Şah", "Xanedan"] },
-      { "word": "HarryPotter", "tabooWords": ["Sîhirbaz", "Sihêr", "Xwendek", "Çûk", "Film"] },
-      { "word": "Batman", "tabooWords": ["Qehreman", "Mask", "Şev", "Komîk", "Film"] },
-      { "word": "Superman", "tabooWords": ["Qehreman", "Bala", "Komîk", "Film", "Maske"] },
-      { "word": "Spiderman", "tabooWords": ["Qehreman", "Tor", "Komîk", "Film", "Maske"] },
-      { "word": "Ironman", "tabooWords": ["Qehreman", "Robot", "Komîk", "Film", "Maske"] },
-      { "word": "Hulk", "tabooWords": ["Qehreman", "Qewet", "Komîk", "Film", "Şîn"] },
-      { "word": "Messi", "tabooWords": ["Futbol", "Top", "Barcelona", "Argentina", "Şehîd"] },
-      { "word": "Ronaldo", "tabooWords": ["Futbol", "Top", "Portugal", "Juventus", "Şehîd"] },
-      { "word": "Neymar", "tabooWords": ["Futbol", "Top", "Brazil", "PSG", "Şehîd"] },
-      { "word": "Benzema", "tabooWords": ["Futbol", "Real", "Madrid", "Şehîd", "Top"] },
-      { "word": "YouTuber", "tabooWords": ["Kanal", "Video", "Abone", "Nivîskar", "Klîp"] },
+      { "word": "HarryPotter", "tabooWords": ["Sîhirbaz", "Sihêr", "Xwendek", "Çûk", "Fîlm"] },
+      { "word": "Batman", "tabooWords": ["Qehreman", "Maske", "Şev", "Komîk", "Fîlm"] },
+      { "word": "Superman", "tabooWords": ["Qehreman", "Bala", "Komîk", "Fîlm", "Maske"] },
+      { "word": "Spiderman", "tabooWords": ["Qehreman", "Tor", "Komîk", "Fîlm", "Maske"] },
+      { "word": "Ironman", "tabooWords": ["Qehreman", "Robot", "Komîk", "Fîlm", "Maske"] },
+      { "word": "Hulk", "tabooWords": ["Qehreman", "Qewet", "Komîk", "Fîlm", "Şîn"] },
+      { "word": "Messi", "tabooWords": ["Futbol", "Top", "Barcelona", "Argentina", "Gog"] },
+      { "word": "Ronaldo", "tabooWords": ["Futbol", "Top", "Portugal", "Juventus", "Gog"] },
+      { "word": "Neymar", "tabooWords": ["Futbol", "Top", "Brazil", "PSG", "Gog"] },
+      { "word": "Benzema", "tabooWords": ["Futbol", "Real", "Madrid", "Gog", "Top"] },
+      { "word": "YouTuber", "tabooWords": ["Kanal", "Vîdeo", "Abone", "Nivîskar", "Klîp"] },
       { "word": "Influencer", "tabooWords": ["Moda", "Instagram", "Weşan", "Bikarhêner", "Reklam"] },
       { "word": "Selfî", "tabooWords": ["Foto", "Telefon", "Wêne", "Post", "Instagram"] },
-      { "word": "Emoji", "tabooWords": ["Sembol", "Mesac", "Wêne", "His", "Deng"] },
+      { "word": "Emoji", "tabooWords": ["Sembol", "Mesac/Peyam", "Wêne", "His", "Deng"] },
       { "word": "Hashtag", "tabooWords": ["Twitter", "Instagram", "Nivîs", "Moda", "Bikarhêner"] },
-      { "word": "Play Station", "tabooWords": ["Lîstik", "FIFA", "Kontrol", "PS", "Konsol"] },
-      { "word": "Xbox", "tabooWords": ["Lîstik", "Microsoft", "Kontrol", "Konsol", "FIFA"] },
-      { "word": "Nintendo", "tabooWords": ["Lîstik", "Mario", "Switch", "Konsol", "Zelda"] },
+      { "word": "Play Station", "tabooWords": ["Lîstik", "FIFA", "Teknolojî", "PS", "Konsol"] },
+      { "word": "Xbox", "tabooWords": ["Lîstik", "Microsoft", "Teknolojî", "Konsol", "FIFA"] },
+      { "word": "Nintendo", "tabooWords": ["Lîstik", "Mario", "Switch", "Konsol", "Teknolojî"] },
       { "word": "FIFA", "tabooWords": ["Top", "Futbol", "Lîstik", "PlayStation", "Xbox"] },
-      { "word": "PUBG", "tabooWords": ["Şer", "Lîstik", "Xelat", "Silah", "Telefon"] },
-      { "word": "Fortnite", "tabooWords": ["Şer", "Lîstik", "Dance", "Silah", "Map"] },
+      { "word": "PUBG", "tabooWords": ["Şer", "Lîstik", "Xelat", "Sîlah", "Telefon"] },
+      { "word": "Fortnite", "tabooWords": ["Şer", "Lîstik", "Dance", "Sîlah", "Xerîte"] },
       { "word": "Minecraft", "tabooWords": ["Blok", "Xwendek", "Lîstik", "Avahî", "Çand"] },
-      { "word": "GTA", "tabooWords": ["Car", "Lîstik", "Şehir", "Krîma", "Silah"] },
-      { "word": "Call of Duty", "tabooWords": ["Şer", "Silah", "Lîstik", "Map", "Kom"] },
-      { "word": "Zelda", "tabooWords": ["Nintendo", "Qehreman", "Lîstik", "Sword", "Mask"] },
+      { "word": "GTA", "tabooWords": ["Erebe", "Lîstik", "Bajar", "Sûc", "Sîlah"] },
+      { "word": "Call of Duty", "tabooWords": ["Şer", "Sîlah", "Lîstik", "Map", "Kom"] },
+      { "word": "Zelda", "tabooWords": ["Nintendo", "Qehreman", "Lîstik", "Şûr", "Maske"] },
       { "word": "Mario", "tabooWords": ["Nintendo", "Lîstik", "Kola", "Qehreman", "Switch"] },
-      { "word": "Pokemon", "tabooWords": ["Nintendo", "Pikachu", "Lîstik", "Stran", "Animasyon"] },
+      { "word": "Pokemon", "tabooWords": ["Nintendo", "Pikachu", "Lîstik", "Stran", "Anîmasyon"] },
       { "word": "Shakira", "tabooWords": ["Stran", "Kolombiya", "Dans", "Barcelona", "Latin"] },
       { "word": "Adele", "tabooWords": ["Stran", "Inglîz", "Grammy", "Mûzîk", "Hûnermend"] },
       { "word": "Beyonce", "tabooWords": ["Stran", "Dans", "Grammy", "Mûzîk", "Hûnermend"] },
@@ -46,30 +46,28 @@
       { "word": "Drake", "tabooWords": ["Rap", "Kanada", "Stran", "Grammy", "Toronto"] },
       { "word": "Kanye", "tabooWords": ["Rap", "Kim", "Stran", "Grammy", "Moda"] },
       { "word": "Rihanna", "tabooWords": ["Barbados", "Stran", "Grammy", "Mûzîk", "Moda"] },
-      { "word": "DuaLipa", "tabooWords": ["Kosova", "Stran", "Grammy", "Mûzîk", "Moda"] },
+      { "word": "Dua Lipa", "tabooWords": ["Kosova", "Stran", "Grammy", "Mûzîk", "Moda"] },
       { "word": "Taylor Swift", "tabooWords": ["Country", "Stran", "Grammy", "Albûm", "Mûzîk"] },
-      { "word": "Selena", "tabooWords": ["Disney", "Stran", "Mûzîk", "Albûm", "Moda"] },
       { "word": "Justin Bieber", "tabooWords": ["Kanada", "Stran", "Mûzîk", "Albûm", "Grammy"] },
       { "word": "Elon Musk", "tabooWords": ["Tesla", "SpaceX", "Mars", "Bitcoin", "Billioner"] },
       { "word": "Mark Zuckerberg", "tabooWords": ["Facebook", "Meta", "Dollar", "Silicon", "CEO"] },
       { "word": "Bill Gates", "tabooWords": ["Microsoft", "Dollar", "Windows", "Philanthropy", "CEO"] },
       { "word": "Steve Jobs", "tabooWords": ["Apple", "iPhone", "Mac", "Dollar", "CEO"] },
-      { "word": "Jeff Bezos", "tabooWords": ["Amazon", "Dollar", "Space", "CEO", "Rocket"] },
-      { "word": "Cristiano", "tabooWords": ["Futbol", "Top", "Portugal", "Real", "Juventus"] },
-      { "word": "Mbappe", "tabooWords": ["France", "PSG", "Futbol", "Top", "Qehreman"] },
-      { "word": "Lewandowski", "tabooWords": ["Polonya", "Barcelona", "Futbol", "Top", "Gol"] },
-      { "word": "Modric", "tabooWords": ["Kroatya", "Real", "Madrid", "Futbol", "Top"] },
-      { "word": "Salah", "tabooWords": ["Egypt", "Liverpool", "Futbol", "Top", "Premier"] },
-      { "word": "Haaland", "tabooWords": ["Norveç", "ManCity", "Futbol", "Top", "Gol"] },
-      { "word": "Van Dijk", "tabooWords": ["Hollanda", "Liverpool", "Futbol", "Defans", "Top"] },
-      { "word": "Pele", "tabooWords": ["Brazil", "Futbol", "Top", "Qehreman", "Legend"] },
+      { "word": "Jeff Bezos", "tabooWords": ["Amazon", "Dollar", "Space", "CEO", "Roket"] },
+      { "word": "Cristiano", "tabooWords": ["Futbol", "Top/Gog", "Portugal", "Real Madrid", "Juventus"] },
+      { "word": "Mbappe", "tabooWords": ["Frensa", "PSG", "Futbol", "Top/Gog", "Qehreman"] },
+      { "word": "Lewandowski", "tabooWords": ["Polonya", "Barcelona", "Futbol", "Top/Gog", "Gol"] },
+      { "word": "Modric", "tabooWords": ["Kroatya", "Real", "Madrid", "Futbol", "Top/Gog"] },
+      { "word": "Salah", "tabooWords": ["Egypt", "Liverpool", "Futbol", "Top/Gog", "Premier"] },
+      { "word": "Haaland", "tabooWords": ["Norveç", "ManCity", "Futbol", "Top/Gog", "Gol"] },
+      { "word": "Van Dijk", "tabooWords": ["Hollanda", "Liverpool", "Futbol", "Defans", "Top/Gog"] },
+      { "word": "Pele", "tabooWords": ["Brazil", "Futbol", "Top/Gog", "Qehreman", "Legend"] },
       { "word": "Maradona", "tabooWords": ["Argentina", "Futbol", "Top", "Napoli", "Legend"] },
-      { "word": "Zidane", "tabooWords": ["France", "Real", "Madrid", "Futbol", "Top"] },
-      { "word": "Ronaldinho", "tabooWords": ["Brazil", "Futbol", "Top", "Barcelona", "Smile"] },
-      { "word": "Amedspor", "tabooWords": ["Futbol", "Amed", "Tîpa", "Şoreş", "Welat"] },
+      { "word": "Zidane", "tabooWords": ["France", "Real", "Madrid", "Futbol", "Top/Gog"] },
+      { "word": "Ronaldinho", "tabooWords": ["Brazil", "Futbol", "Top/Gog", "Barcelona", "Ken kirin"] },
+      { "word": "Amedspor", "tabooWords": ["Futbol", "Amed", "Top/Gog", "Şoreş", "Welat"] },
       { "word": "Rojava", "tabooWords": ["Sûriye", "Kobanê", "Qamişlo", "Şoreş", "Welat"] },
       { "word": "SterkTV", "tabooWords": ["TV", "Kanal", "Stran", "Rojava", "Program"] },
-      { "word": "Medya Haber", "tabooWords": ["TV", "Kanal", "Kurdistan", "Nûçe", "Program"] },
       { "word": "Rudaw", "tabooWords": ["TV", "Kanal", "Hewlêr", "Kurdistan", "Nûçe"] },
       { "word": "Xebat", "tabooWords": ["Kar", "Mişk", "Çalaki", "Ofîs", "Dest"] },
       { "word": "Welat", "tabooWords": ["Kurdistan", "Mîllat", "Amed", "Rojava", "Serxwebûn"] },
@@ -77,8 +75,8 @@
       { "word": "Çand", "tabooWords": ["Hunermend", "Stran", "Dengbêj", "Folklor", "Mîras"] },
       { "word": "Newroz", "tabooWords": ["Kurd", "Agir", "Serxwebûn", "Çarşema", "Çand"] },
       { "word": "Dengbêj", "tabooWords": ["Stran", "Kurdî", "Çîrok", "Mîras", "Hunermend"] },
-      { "word": "ŞivanPerwer", "tabooWords": ["Stran", "Kurdî", "Hunermend", "Serxwebûn", "Çand"] },
-      { "word": "CiwanHaco", "tabooWords": ["Stran", "Kurdî", "Hunermend", "Mûzîk", "Çand"] },
+      { "word": "Şivan Perwer", "tabooWords": ["Stran", "Kurdî", "Hunermend", "Serxwebûn", "Çand"] },
+      { "word": "Ciwan Haco", "tabooWords": ["Stran", "Kurdî", "Hunermend", "Mûzîk", "Çand"] },
       { "word": "Aynur", "tabooWords": ["Stran", "Kurdî", "Hunermend", "Mûzîk", "Çand"] },
       { "word": "Xelîl Xemgîn", "tabooWords": ["Stran", "Kurdî", "Hunermend", "Mûzîk", "Çand"] },
       { "word": "Ehmedê Xanî", "tabooWords": ["MemûZîn", "Pirtûk", "Helbest", "Kurdî", "Nivîskar"] },
@@ -92,32 +90,983 @@
       { "word": "Hewlêr", "tabooWords": ["Bajar", "Başkent", "Parêzgeh", "Herêm", "Welat"] },
       { "word": "Silemanî", "tabooWords": ["Bajar", "Parêzgeh", "PUK", "Herêm", "Welat"] },
       { "word": "Duhok", "tabooWords": ["Bajar", "Parêzgeh", "KDP", "Herêm", "Welat"] },
-      { "word": "Amed", "tabooWords": ["Diyarbekir", "Bakur", "Bajar", "Şar", "Welat"] },
-      { "word": "Mêrdîn", "tabooWords": ["Bakur", "Bajar", "Şar", "Qesra", "Welat"] },
-      { "word": "Wan", "tabooWords": ["Bakur", "Bajar", "Şar", "Gola", "Welat"] },
+      { "word": "Amed", "tabooWords": ["Diyarbekir", "Bakur", "Bajar", "Şer", "Welat"] },
+      { "word": "Mêrdîn", "tabooWords": ["Bakur", "Bajar", "Şer", "Qesra", "Welat"] },
+      { "word": "Wan", "tabooWords": ["Bakur", "Bajar", "Şer", "Gola", "Welat"] },
       { "word": "Colemerg", "tabooWords": ["Hakkarî", "Çiya", "Bakur", "Bajar", "Welat"] },
       { "word": "Agirî", "tabooWords": ["Çiya", "Serhed", "Bakur", "KurdiBajarstan", "Welat"] },
-      { "word": "Qers", "tabooWords": ["Serhed", "Bakur", "Bajar", "Şar", "Welat"] },
-      { "word": "Bedlîs", "tabooWords": ["Bakur", "Bajar", "Şar", "Welat", "Çand"] },
-      { "word": "Êlih", "tabooWords": ["Batman", "Bakur", "Bajar", "Welat", "Şar"] },
-      { "word": "Sêrt", "tabooWords": ["Bakur", "Bajar", "Şar", "Welat", "Çand"] },
-      { "word": "Qamişlo", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şar"] },
+      { "word": "Qers", "tabooWords": ["Serhed", "Bakur", "Bajar", "Şer", "Welat"] },
+      { "word": "Bedlîs", "tabooWords": ["Bakur", "Bajar", "Şer", "Welat", "Çand"] },
+      { "word": "Êlih", "tabooWords": ["Batman", "Bakur", "Bajar", "Welat", "Şer"] },
+      { "word": "Sêrt", "tabooWords": ["Bakur", "Bajar", "Şer", "Welat", "Çand"] },
+      { "word": "Qamişlo", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şer"] },
       { "word": "Kobanê", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şoreş"] },
-      { "word": "Efrîn", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şar"] },
-      { "word": "Derik", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şar"] },
-      { "word": "Amûdê", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şar"] },
-      { "word": "Hasîçe", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şar"] },
-      { "word": "Dêrîk", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Şar", "Welat"] },
-      { "word": "Şehba", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Herêm", "Şar"] },
+      { "word": "Efrîn", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şer"] },
+      { "word": "Derik", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şer"] },
+      { "word": "Amûdê", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şer"] },
+      { "word": "Hasîçe", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Welat", "Şer"] },
+      { "word": "Dêrîk", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Şer", "Welat"] },
+      { "word": "Şehba", "tabooWords": ["Rojava", "Sûriye", "Bajar", "Herêm", "Şer"] },
       { "word": "Mexmûr", "tabooWords": ["Komplox", "Bajar", "Gerîla", "Şoreş", "Welat"] },
-      { "word": "Şerefxan", "tabooWords": ["Bedirxan", "Tarih", "Kurd", "Mîras", "Welat"] },
+      { "word": "Şerefxan", "tabooWords": ["Bedirxan", "Tarih/Dirok", "Kurd", "Mîras", "Welat"] },
       { "word": "Memozîn", "tabooWords": ["EhmedêXanî", "Pirtûk", "Stran", "Helbest", "Kurdî"] },
-      { "word": "Kawa", "tabooWords": ["Demirci", "Newroz", "Agir", "Kurd", "Çand"] },
-      { "word": "Diyar", "tabooWords": ["Stran", "Kurd", "Hunermend", "Çand", "Mûzîk"] },
+      { "word": "Kawa", "tabooWords": ["Hesinker", "Newroz", "Agir", "Kurd", "Çand"] },
+      { "word": "Diyar", "tabooWords": ["Stran", "Xuya", "Hunermend", "Aşkere", "Mûzîk"] },
       { "word": "Helîn", "tabooWords": ["Stran", "Kurd", "Hunermend", "Çand", "Mûzîk"] },
       { "word": "Rojda", "tabooWords": ["Stran", "Kurd", "Hunermend", "Çand", "Mûzîk"] },
       { "word": "Barzanî", "tabooWords": ["KDP", "Hewlêr", "Iraq", "Siyaset", "Welat"] },
       { "word": "Talabanî", "tabooWords": ["PUK", "Silemanî", "Iraq", "Siyaset", "Welat"] },
+{
+  "word": "Tomar",
+  "tabooWords": ["Perê", "Dem", "Piştî", "Bank"]
+},
+{
+  "word": "Diravdan",
+  "tabooWords": ["Perê", "Bihayê", "Kirîn", "Firotin"]
+},
+{
+  "word": "Ser",
+  "tabooWords": ["Jor", "Rû", "Gola", "Por"]
+},
+{
+  "word": "Bêje",
+  "tabooWords": ["Nivîs", "Cumle", "Tîp", "Qise"]
+},
+{
+  "word": "Bazî",
+  "tabooWords": ["Perê", "Dem", "Piştî", "Bank"]
+},
+{
+  "word": "Muzê",
+  "tabooWords": ["Huner", "Dîrok", "Bêdeng", "Netewî"]
+},
+{
+  "word": "Şer",
+  "tabooWords": ["Tundî", "Leşker", "Cîhan", "Çeq"]
+},
+{
+  "word": "Tîm",
+  "tabooWords": ["Lîstik", "Bazî", "Kom", "Bihevra"]
+},
+{
+  "word": "Zewic",
+  "tabooWords": ["Tene", "Mêr", "Jin", "Arospî"]
+},
+{
+  "word": "Stêrk",
+  "tabooWords": ["Roj", "Ronî", "Zer", "Şev"]
+},
+{
+  "word": "Leşker",
+  "tabooWords": ["Şer", "Şoreşvan", "Teng", "Çeq"]
+},
+{
+  "word": "Serketin",
+  "tabooWords": ["Kar", "Dem", "Dibistan", "Lez"]
+},
+{
+  "word": "Ezman",
+  "tabooWords": ["Şîn", "Ewr", "Ba", "Roj"]
+},
+{
+  "word": "Mamoste",
+  "tabooWords": ["Xwendekar", "Pol", "Rave", "Dibistan"]
+},
+{
+  "word": "Fakîr",
+  "tabooWords": ["Dewlemend", "Para", "Kirîn", "Parsek"]
+},
+{
+  "word": "Xwîn",
+  "tabooWords": ["Sor", "Birîn", "Xêz", "Dil"]
+},
+{
+  "word": "Dîtin",
+  "tabooWords": ["Zanistvan", "Lêkolîn", "Dîtin", "Nû"]
+},
+{
+  "word": "Derve",
+  "tabooWords": ["Navxwe", "Bane", "Park", "Avahî"]
+},
+{
+  "word": "Parêzer",
+  "tabooWords": ["Dadgeh", "Daxwaz", "Dîrok", "Dad"]
+},
+{
+  "word": "Hemşîre",
+  "tabooWords": ["Alîkarî", "Bijişk", "Nexweş", "Nexweşxane"]
+},
+{
+  "word": "Kamera",
+  "tabooWords": ["Wêne", "Girtin", "Dijîtal", "Vîdeo"]
+},
+{
+  "word": "Gir",
+  "tabooWords": ["Sivik", "Mezin", "Piçûk", "Hilkişîn"]
+},
+{
+  "word": "Rêvebir",
+  "tabooWords": ["Tîm", "Lîstikvan", "Serok", "Lîstik"]
+},
+{
+  "word": "Çiya",
+  "tabooWords": ["Hilkişîn", "Everest", "Bilind", "Berf"]
+},
+{
+  "word": "Pîrozbahî",
+  "tabooWords": ["Şan", "Rojbûn", "Arospî", "Heval"]
+},
+{
+  "word": "Baxê",
+  "tabooWords": ["Zivik", "Germ", "Sahara", "Rêz"]
+},
+{
+  "word": "Mal",
+  "tabooWords": ["Jiyan", "Hewş/Baxçe", "Rêvebir", "Malbat"]
+},
+{
+  "word": "Agir",
+  "tabooWords": ["Germ", "Sor", "Girtin", "Çem"]
+},
+{
+  "word": "Wêne",
+  "tabooWords": ["Wêne", "Kamera", "Reng", "Çarçove"]
+},
+{
+  "word": "Gul",
+  "tabooWords": ["Çîçek", "Rojbûn", "Sor", "Baxçe"]
+},
+{
+  "word": "Sînor",
+  "tabooWords": ["Navbera", "Welat", "Sûrîye", "Xeta"]
+},
+{
+  "word": "Cixara",
+  "tabooWords": ["Fûm", "Marlboro", "Kansêr", "Edeb"]
+},
+{
+  "word": "Taybet",
+  "tabooWords": ["Xusûsi", "Veşartî", "Agahî", "Giştî"]
+},
+{
+  "word": "Tarî",
+  "tabooWords": ["Ronî", "Şev", "Dîtin", "Zelal"]
+},
+{
+  "word": "Hirç",
+  "tabooWords": ["Dar", "Şêr", "Heywan", "Qewet"]
+},
+{
+  "word": "Mamoste",
+  "tabooWords": ["Mamoste", "Zanîngeh", "Xwendekar", "Pol"]
+},
+{
+  "word": "Pêl",
+  "tabooWords": ["Jor", "Jêr", "Av", "Behr"]
+},
+{
+  "word": "Destmal",
+  "tabooWords": ["Germ", "Jin/Pîrek", "Ser", "Parastin"]
+},
+{
+  "word": "Şîrîn",
+  "tabooWords": ["Tal/Tehl", "Xwîn", "Şekir", "Tirş"]
+},
+{
+  "word": "Jîr",
+  "tabooWords": ["Jêhatî", "Zanîn", "Aql", "Zanist"]
+},
+{
+  "word": "Şah",
+  "tabooWords": ["Setrenc", "Qezî", "Serok", "Welat"]
+},
+{
+  "word": "Dans",
+  "tabooWords": ["Tevger", "Stran", "Reqs", "Dîlan"]
+},
+{
+  "word": "Şandin",
+  "tabooWords": ["Email", "Tîp", "Wergirtin", "Pakêt"]
+},
+{
+  "word": "Dereng",
+  "tabooWords": ["Zû", "Civîn", "Dem", "Şev"]
+},
+{
+  "word": "Ol",
+  "tabooWords": ["Xwedê", "Bawerî", "Kultur", "Îman"]
+},
+{
+  "word": "Kursî",
+  "tabooWords": ["Rûniştin", "Odeya Jiyanê", "TV", "Aram"]
+},
+{
+  "word": "Dawî",
+  "tabooWords": ["Rawestîn", "Destpêkirin", "Qedandî", "Kar"]
+},
+{
+  "word": "Sêv",
+  "tabooWords": ["Sor", "Fêkî", "Sebze", "Xwarin"]
+},
+{
+  "word": "Xwendin",
+  "tabooWords": ["Xwendavan", "Quiz", "Zaningeh", "Dibistan"]
+},
+{
+  "word": "Otobûs",
+  "tabooWords": ["Geşt", "Gihîştin", "Rawestîn", "Giştî"]
+},
+{
+  "word": "Hewa",
+  "tabooWords": ["Baran", "Berf", "Roj", "Pêşbînî"]
+},
+{
+  "word": "Nexweş",
+  "tabooWords": ["Baş", "Sar", "Grip", "Bijîşk"]
+},
+{
+  "word": "Pencere",
+  "tabooWords": ["Cam", "Derî", "Derve", "Vekirin"]
+},
+{
+  "word": "Gîtar",
+  "tabooWords": ["Amûr", "Stran", "Lîstik", "Kom"]
+},
+{
+  "word": "Penîr",
+  "tabooWords": ["Şîr", "Spî", "Pizza", "Sandwîç"]
+},
+{
+  "word": "Mewşandin",
+  "tabooWords": ["Derya", "Av", "Mayok", "Tevger"]
+}
+      ],
+      "stories_and_books": [
+        {
+          "word": "Çîrok",
+          "tabooWords": [
+            "Komplo",
+            "Vejîn",
+            "Çîrok",
+            "Destan",
+            "Pirtûk"
+          ]
+        },
+        {
+          "word": "Pirtûk",
+          "tabooWords": [
+            "Roman",
+            "Cild",
+            "Fuar",
+            "Weşanxane",
+            "Çap"
+          ]
+        },
+        {
+          "word": "Nivîskar",
+          "tabooWords": [
+            "Roman",
+            "Peyv",
+            "Edebiyat",
+            "Helbestvan",
+            "Pirtûk"
+          ]
+        }
+      ],
+    "objects_and_places": [
+      {
+        "word": "Cih",
+        "tabooWords": [
+          "Der",
+          "Site",
+          "Herêm",
+          "Xal",
+          "Dever"
+        ]
+      },
+      {
+        "word": "Xwarin",
+        "tabooWords": [
+          "Metbex",
+          "Vexwarin",
+          "Birçî",
+          "Mase",
+          "Sarinc"
+        ]
+      },
+      {
+        "word": "Zarok",
+        "tabooWords": [
+          "Tv",
+          "Piçûk",
+          "Ciwan/Xort",
+          "Pitik",
+          "Zilam"
+        ]
+      },
+      {
+        "word": "Rûniştin",
+        "tabooWords": [
+          "Bêhnvedan",
+          "Kursî",
+          "Şipya",
+          "Mase",
+          "Westiyan"
+        ]
+      },
+      {
+        "word": "Mase",
+        "tabooWords": [
+          "Mobîlya",
+          "Xwarin",
+          "Civîn",
+          "Ofîs",
+          "Mekteb"
+        ]
+      },
+      {
+        "word": "Axaftvan",
+        "tabooWords": [
+          "Radyo/tv",
+          "Pêşandan",
+          "Ragihîner",
+          "Konferans",
+          "Diksiyon"
+        ]
+      },
+      {
+        "word": "Kompîter",
+        "tabooWords": [
+          "Monitor",
+          "Processor/İşlemci",
+          "Klavye",
+          "Lîstik",
+          "Ekran"
+        ]
+      },
+      {
+        "word": "Deng",
+        "tabooWords": [
+          "Ziman",
+          "Pêj",
+          "Hawar",
+          "Muzîk",
+          "Awaz"
+        ]
+      },
+      {
+        "word": "Muzîk",
+        "tabooWords": [
+          "Melodî",
+          "Amûr",
+          "Not",
+          "Gîtar",
+          "Pîyano"
+        ]
+      },
+      {
+        "word": "TV",
+        "tabooWords": [
+          "Ekran",
+          "Weşan",
+          "Satelît/Uydu",
+          "Fîlm",
+          "Temaşe"
+        ]
+      },
+      {
+        "word": "Radyo",
+        "tabooWords": [
+          "Televîzyon",
+          "Axaftvan",
+          "Antên",
+          "Muzîk",
+          "Weşan"
+        ]
+      },
+      {
+        "word": "Tuwalet",
+        "tabooWords": [
+          "Hemam",
+          "Bêhnvedan",
+          "Kursî",
+          "Sabûn",
+          "Giştî"
+        ]
+      },
+      {
+        "word": "Av",
+        "tabooWords": [
+          "H2O",
+          "Avî",
+          "Bûxar",
+          "Qeşayê",
+          "Şil"
+        ]
+      },
+      {
+        "word": "Hemam",
+        "tabooWords": [
+          "Tuwalet",
+          "Sînk",
+          "Paqijî",
+          "Şow",
+          "Hemam"
+        ]
+      },
+      {
+        "word": "Herikîn",
+        "tabooWords": [
+          "Tevger",
+          "Herikîn",
+          "Rê",
+          "Pêvajo",
+          "Dînamîk"
+        ]
+      },
+      {
+        "word": "Ajenda",
+        "tabooWords": [
+          "Bername",
+          "Rêwîtî",
+          "Plan",
+          "Nûçe",
+          "Medya"
+        ]
+      },
+      {
+        "word": "Civîn",
+        "tabooWords": [
+          "Konferans",
+          "Komcivîn",
+          "Mase",
+          "Rûniştin",
+          "Seminar"
+        ]
+      },
+      {
+        "word": "Sala nû",
+        "tabooWords": [
+          "1'ê Çile",
+          "Pîrozbahî",
+          "Fîşek",
+          "Salname",
+          "Krîsmes"
+        ]
+      },
+      {
+        "word": "Salname",
+        "tabooWords": [
+          "Bername",
+          "Plansaz",
+          "Dîrok",
+          "Ajenda",
+          "Rojname"
+        ]
+      },
+      {
+        "word": "Nivîsîn",
+        "tabooWords": [
+          "Pênûs",
+          "Xêzkirin",
+          "Defter",
+          "Panîl",
+          "Peyv"
+        ]
+      },
+      {
+        "word": "Dîrok",
+        "tabooWords": [
+          "Roj",
+          "Dem",
+          "Tayînkirin",
+          "Salname",
+          "Serdem"
+        ]
+      },
+      {
+        "word": "Zanîngeha Harvardê",
+        "tabooWords": [
+          "Cambridge",
+          "Dibistan",
+          "Xwendekar",
+          "Amerîka",
+          "Kampus"
+        ]
+      },
+      {
+        "word": "Dibistan",
+        "tabooWords": [
+          "Sazî",
+          "Perwerde",
+          "Hînkarî",
+          "Kampus",
+          "Dersxane"
+        ]
+      },
+      {
+        "word": "Sorî tarî",
+        "tabooWords": [
+          "Reng",
+          "Şelxem",
+          "Zelal",
+          "Şerab",
+          "Pembe"
+        ]
+      },
+      {
+        "word": "Cambridge",
+        "tabooWords": [
+          "Bajar",
+          "Xwendekar",
+          "Zanîngeh",
+          "Dibistan",
+          "Akademî"
+        ]
+      },
+      {
+        "word": "Tora firok",
+        "tabooWords": [
+          "Firok",
+          "Hêşîn",
+          "Tor",
+          "Pencere",
+          "Derî"
+        ]
+      },
+      {
+        "word": "Teknolojî",
+        "tabooWords": [
+          "Amûr",
+          "Nûjenî",
+          "Mobîl",
+          "Bername",
+          "Kompîter"
+        ]
+      },
+      {
+        "word": "Lêdan",
+        "tabooWords": [
+          "Lêxistin",
+          "Deng",
+          "Şelme",
+          "Darb",
+          "Şer"
+        ]
+      },
+      {
+        "word": "Hêşîn",
+        "tabooWords": [
+          "Kêzik",
+          "Pest",
+          "Zirar",
+          "Artropod",
+          "Balafir"
+        ]
+      },
+      {
+        "word": "Dengê zîz",
+        "tabooWords": [
+          "Lerizîn",
+          "Zêdetir",
+          "Bêdengî",
+          "Pêl",
+          "Qîjîn"
+        ]
+      },
+      {
+        "word": "Kanada",
+        "tabooWords": [
+          "Bakur",
+          "Amerîka",
+          "Ottawa",
+          "Sar",
+          "Welat"
+        ]
+      },
+      {
+        "word": "Bakur",
+        "tabooWords": [
+          "Alî",
+          "Başûr",
+          "Pûsûle",
+          "Stûn",
+          "Polî"
+        ]
+      },
+      {
+        "word": "Sar",
+        "tabooWords": [
+          "Qeşagirtî",
+          "Germ",
+          "Qeşayê",
+          "Zivistan",
+          "Germ"
+        ]
+      },
+      {
+        "word": "Berf",
+        "tabooWords": [
+          "Qeşagirtin",
+          "Zivistan",
+          "Qeşayê",
+          "Baran",
+          "Sar"
+        ]
+      },
+      {
+        "word": "Qaz",
+        "tabooWords": [
+          "Balafir",
+          "Mirîşk",
+          "Balafir",
+          "Firok",
+          "Gola"
+        ]
+      }
+    ],
+    "health_and_human": [
+      {
+        "word": "Pêgirtin",
+        "tabooWords": [
+          "Xwestin",
+          "Çîkolata",
+          "Cigare",
+          "Adet",
+          "Pêgirtin"
+        ]
+      },
+      {
+        "word": "Derman",
+        "tabooWords": [
+          "Nexweş",
+          "Dermanxane",
+          "Heb",
+          "Aspirîn",
+          "Bijîşk"
+        ]
+      },
+      {
+        "word": "Rehabîlîtasyon",
+        "tabooWords": [
+          "Tedawî",
+          "Vejîn",
+          "Terapi",
+          "Rehab",
+          "Piştgirî"
+        ]
+      },
+      {
+        "word": "Adet",
+        "tabooWords": [
+          "Kevn",
+          "Pratîk",
+          "Tevger",
+          "Tayînkirin",
+          "Rûtîn"
+        ]
+      },
+      {
+        "word": "Birîn",
+        "tabooWords": [
+          "Cerrah",
+          "Birîn",
+          "Skalpel",
+          "Ameliyat",
+          "Operasyon"
+        ]
+      },
+      {
+        "word": "Ameliyat",
+        "tabooWords": [
+          "Pêvajo",
+          "Operasyon",
+          "Skalpel",
+          "Nexweşxane",
+          "Bijîşk"
+        ]
+      },
+      {
+        "word": "Dirûtin",
+        "tabooWords": [
+          "Resen",
+          "Çarçev",
+          "Xez",
+          "Derzî",
+          "Dîrûn"
+        ]
+      },
+      {
+        "word": "Tirs",
+        "tabooWords": [
+          "Fobî",
+          "Xemgînî",
+          "Stres",
+          "Xwîn",
+          "Panîk"
+        ]
+      },
+      {
+        "word": "Şaşwaz",
+        "tabooWords": [
+          "Tirsandin",
+          "Şok",
+          "Panîk",
+          "Bêhêvî",
+          "ecêb"
+        ]
+      },
+      {
+        "word": "Qedexeya Derketinê",
+        "tabooWords": [
+          "Dem",
+          "Veger",
+          "Girtin",
+          "Kolan",
+          "Sînor"
+        ]
+      },
+      {
+        "word": "Dereng",
+        "tabooWords": [
+          "Zû",
+          "Dem",
+          "Berî",
+          "Paşî",
+          "Niha"
+        ]
+      },
+      {
+        "word": "Ciwan",
+        "tabooWords": [
+          "Xort",
+          "Zarok",
+          "Enerjî",
+          "Dînamîk",
+          "Pîr"
+        ]
+      },
+      {
+        "word": "Mal",
+        "tabooWords": [
+          "Cih",
+          "Rûniştin",
+          "Malbat",
+          "Xane",
+          "Apartman"
+        ]
+      },
+      {
+        "word": "Ax",
+        "tabooWords": [
+          "Erd",
+          "Zevî",
+          "Bingeh",
+          "Plot",
+          "Erd"
+        ]
+      }
+    ],
+    "concepts_and_more": [
+      {
+        "word": "Bawerî",
+        "tabooWords": [
+          "Perestin",
+          "Pîştgirî",
+          "Dua",
+          "Xwedê",
+          "Pîroz"
+        ]
+      },
+      {
+        "word": "Dîn",
+        "tabooWords": [
+          "Bawerî",
+          "Perestin",
+          "Xwedayî",
+          "Ruhanî",
+          "Pêxember"
+        ]
+      },
+      {
+        "word": "Xwedê",
+        "tabooWords": [
+          "Afirîner",
+          "Pêxember",
+          "Îlahî",
+          "Melek",
+          "Pirtûk"
+        ]
+      },
+      {
+        "word": "Pîroz",
+        "tabooWords": [
+          "Cejn",
+          "Newroz",
+          "Xwedayî",
+          "Dînî"
+        ]
+      },
+      {
+        "word": "Bilbilî",
+        "tabooWords": [
+          "Heywan",
+          "Hewayî",
+          "Gaz",
+          "Kûvî",
+          "Pûç"
+        ]
+      },
+      {
+        "word": "Teqîn",
+        "tabooWords": [
+          "Şikestin",
+          "Şikestin",
+          "Xerab",
+          "Birîn",
+          "Zirar"
+        ]
+      },
+      {
+        "word": "Çerm",
+        "tabooWords": [
+          "Dermis",
+          "Epidermis",
+          "Destdan",
+          "Laş",
+          "Goşt"
+        ]
+      },
+      {
+        "word": "Mil",
+        "tabooWords": [
+          "Laş",
+          "Mirovan",
+          "Mil",
+          "Pî",
+          "Dest"
+        ]
+      },
+      {
+        "word": "Kêş",
+        "tabooWords": [
+          "Dest",
+          "Tilî",
+          "Paçkirin",
+          "Boks",
+          "Hêrs"
+        ]
+      },
+      {
+        "word": "Pî",
+        "tabooWords": [
+          "Binî",
+          "Lİng",
+          "Tilî",
+          "Pêlav",
+          "Sol"
+        ]
+      },
+      {
+        "word": "Avjenî",
+        "tabooWords": [
+          "Av",
+          "Hewz",
+          "Snorkel",
+          "Soba",
+          "Çem/Behr"
+        ]
+      },
+      {
+        "word": "Hesp",
+        "tabooWords": [
+          "Nêr",
+          "Hesp",
+          "Atletîzm",
+          "Siwar",
+          "Ker"
+        ]
+      },
+      {
+        "word": "Kiras",
+        "tabooWords": [
+          "Cil",
+          "Dawet",
+          "Xwekirin",
+          "Jor",
+          "Xweşik"
+        ]
+      },
+      {
+        "word": "Klûb",
+        "tabooWords": [
+          "Rêxistin",
+          "Civak",
+          "Komele",
+          "Endam",
+          "Sazî"
+        ]
+      },
+      {
+        "word": "Spor",
+        "tabooWords": [
+          "Çalakiya fîzîkî",
+          "Atletîzm",
+          "Pêşbirk",
+          "Werziş",
+          "Goga"
+        ]
+      },
+      {
+        "word": "Hawar",
+        "tabooWords": [
+          "Qîrîn",
+          "Deng",
+          "Dengê bilind",
+          "Hawar",
+          "Şer"
+        ]
+      },
+      {
+        "word": "Excel",
+        "tabooWords": [
+          "Microsoft",
+          "Rêz",
+          "Stûn",
+          "Software",
+          "Daney"
+        ]
+      },
+      {
+        "word": "Jimar",
+        "tabooWords": [
+          "Jimare",
+          "Hejmar",
+          "Matematîk",
+          "Cebîr",
+          "Statîstîk"
+        ]
+      },
+      {
+        "word": "Matematîk",
+        "tabooWords": [
+          "Kalculus",
+          "Beden",
+          "Cebîr",
+          "Jimar",
+          "Jimare"
+        ]
+      },
+      {
+        "word": "Hevkêşe",
+        "tabooWords": [
+          "Formûl",
+          "Matematîk",
+          "Cebîr",
+          "Wekhevî",
+          "Çareserî"
+        ]
+      },
       { "word": "Dê",
         "tabooWords": ["Bav", "Zarok", "Mal", "Xizm", "Jin"]
       },
@@ -1992,7 +2941,303 @@
       {
         "word": "Ayak",
         "tabooWords": ["Vücut", "yürümek", "koşmak", "bacak", "topuk"]
-      }
+      },
+      {
+  "word": "Tasarruf",
+  "tabooWords": ["Para", "Zaman", "Sonra", "Banka"]
+},
+{
+  "word": "Ödemek",
+  "tabooWords": ["Para", "Fiyat", "Almak", "Satmak"]
+},
+{
+  "word": "Kelime",
+  "tabooWords": ["Yazmak", "Cümle", "Harf", "Konuşmak"]
+},
+{
+  "word": "Fırtına",
+  "tabooWords": ["Şimşek", "Gök gürültüsü", "Kasırga", "Hava"]
+},
+{
+  "word": "Müze",
+  "tabooWords": ["Sanat", "Tarih", "Sessiz", "Ulusal"]
+},
+{
+  "word": "Şirket",
+  "tabooWords": ["İş", "Kurum", "Çalışmak", "İşveren"]
+},
+{
+  "word": "Konuşmak",
+  "tabooWords": ["Sohbet", "Dil", "İngilizce", "Ağız"]
+},
+{
+  "word": "Savaş",
+  "tabooWords": ["Şiddet", "Ordu", "Dünya", "Silah"]
+},
+{
+  "word": "Takım",
+  "tabooWords": ["Spor", "Oyun", "Ulusal", "Birlikte"]
+},
+{
+  "word": "Evli",
+  "tabooWords": ["Bekar", "Koca", "Eş", "Düğün"]
+},
+{
+  "word": "Yıldız",
+  "tabooWords": ["Güneş", "Parlak", "Sarı", "Gece"]
+},
+{
+  "word": "Ordu",
+  "tabooWords": ["Asker", "Savaş", "Savaşmak", "Silah"]
+},
+{
+  "word": "Davet etmek",
+  "tabooWords": ["Misafir", "Katılmak", "Parti", "Düğün"]
+},
+{
+  "word": "Meşgul",
+  "tabooWords": ["Çalışmak", "Zaman", "Okul", "Koşuşturmak"]
+},
+{
+  "word": "Gökyüzü",
+  "tabooWords": ["Mavi", "Bulut", "Kuş", "Güneş"]
+},
+{
+  "word": "Öğretmen",
+  "tabooWords": ["Öğrenci", "Sınıf", "Anlatmak", "Okul"]
+},
+{
+  "word": "Fakir",
+  "tabooWords": ["Zengin", "Para", "Almak", "Ödemek"]
+},
+{
+  "word": "Kan",
+  "tabooWords": ["Kırmızı", "Kesmek", "Damar", "Kalp"]
+},
+{
+  "word": "Keşfetmek",
+  "tabooWords": ["Bilim insanı", "Araştırma", "Bulmak", "Yeni"]
+},
+{
+  "word": "Dışarı",
+  "tabooWords": ["İçeri", "Çatı", "Park", "Bahçe"]
+},
+{
+  "word": "Avukat",
+  "tabooWords": ["Mahkeme", "Dava", "Yargı", "Hakim"]
+},
+{
+  "word": "Hemşire",
+  "tabooWords": ["Bakım", "Hasta", "Hastalık", "Hastane"]
+},
+{
+  "word": "Kamera",
+  "tabooWords": ["Fotoğraf", "Çekmek", "Dijital", "Video"]
+},
+{
+  "word": "Ağır",
+  "tabooWords": ["Hafif", "Metal", "Ağırlık", "Kaldırmak"]
+},
+{
+  "word": "Deri",
+  "tabooWords": ["Kaplamak", "Renk", "Dış", "Koruma"]
+},
+{
+  "word": "Antrenör",
+  "tabooWords": ["Takım", "Oyuncu", "Lider", "Spor"]
+},
+{
+  "word": "Seyahat",
+  "tabooWords": ["Tatil", "Ziyaret", "Uçak", "Ülke"]
+},
+{
+  "word": "Hafta sonu",
+  "tabooWords": ["Çalışmak", "Boş", "Cumartesi", "Pazar"]
+},
+{
+  "word": "Dağ",
+  "tabooWords": ["Tırmanmak", "Everest", "Yüksek", "Kar"]
+},
+{
+  "word": "Kutlamak",
+  "tabooWords": ["Parti", "Doğum günü", "Yıldönümü", "Arkadaş"]
+},
+{
+  "word": "Çöl",
+  "tabooWords": ["Kuru", "Sıcak", "Sahra", "Kum"]
+},
+{
+  "word": "Ev",
+  "tabooWords": ["Yaşamak", "Ev", "Uyumak", "Aile"]
+},
+{
+  "word": "Şarap",
+  "tabooWords": ["Üzüm", "Beyaz", "Kırmızı", "Alkol"]
+},
+{
+  "word": "Ateş",
+  "tabooWords": ["Sıcak", "Kırmızı", "İtfaiyeci", "Kamp"]
+},
+{
+  "word": "Fotoğraf",
+  "tabooWords": ["Resim", "Kamera", "Renk", "Çerçeve"]
+},
+{
+  "word": "Çiçek",
+  "tabooWords": ["Gül", "Cenaze", "Düğün", "Bahçe"]
+},
+{
+  "word": "Sınır",
+  "tabooWords": ["Arasında", "Ülke", "Limit", "Çizgi"]
+},
+{
+  "word": "Eğlence",
+  "tabooWords": ["Keyif", "Aktivite", "Oyun", "Zaman"]
+},
+{
+  "word": "Sigara",
+  "tabooWords": ["Duman", "Marlboro", "Kanser", "Alışkanlık"]
+},
+{
+  "word": "Özel",
+  "tabooWords": ["Kişisel", "Gizli", "Bilgi", "Herkese açık"]
+},
+{
+  "word": "Uyanmak",
+  "tabooWords": ["Sabah", "Yatak", "Erken", "Kalkmak"]
+},
+{
+  "word": "Zayıf",
+  "tabooWords": ["Güçlü", "Kas", "Küçük", "Güç"]
+},
+{
+  "word": "Karanlık",
+  "tabooWords": ["Aydınlık", "Gece", "Görmek", "Uyumak"]
+},
+{
+  "word": "Bıçak",
+  "tabooWords": ["Çatal", "Kaşık", "Kesmek", "Keskin"]
+},
+{
+  "word": "Öpmek",
+  "tabooWords": ["Dudak", "Aşk", "Yanak", "Romantik"]
+},
+{
+  "word": "Duman",
+  "tabooWords": ["Gri", "Yanmak", "Pişirmek", "Ateş"]
+},
+{
+  "word": "Ayı",
+  "tabooWords": ["Orman", "Kahverengi", "Siyah", "Hayvan"]
+},
+{
+  "word": "Profesör",
+  "tabooWords": ["Öğretmen", "Üniversite", "Öğrenciler", "Sınıf"]
+},
+{
+  "word": "Kirli",
+  "tabooWords": ["Temiz", "Kıyafet", "Duş", "Sabun"]
+},
+{
+  "word": "Çiğ",
+  "tabooWords": ["Suşi", "Pişirmek", "Yemek", "Et"]
+},
+{
+  "word": "Merdiven",
+  "tabooWords": ["Yukarı", "Aşağı", "Tırmanmak", "Ev"]
+},
+{
+  "word": "Battaniye",
+  "tabooWords": ["Sıcak", "Yatak", "Çarşaf", "Kaplamak"]
+},
+{
+  "word": "Tatlı",
+  "tabooWords": ["Pasta", "Turta", "Şekerli", "Kurabiye"]
+},
+{
+  "word": "Tişört",
+  "tabooWords": ["Giymek", "Günlük", "Kot", "Beyaz"]
+},
+{
+  "word": "Zeki",
+  "tabooWords": ["Akıllı", "Bilge", "Beyin", "Bilgi"]
+},
+{
+  "word": "Kral",
+  "tabooWords": ["Kraliçe", "Prens", "Lider", "Ülke"]
+},
+{
+  "word": "Buzdolabı",
+  "tabooWords": ["Yiyecek", "Mutfak", "Soğuk", "Dondurucu"]
+},
+{
+  "word": "Dans",
+  "tabooWords": ["Hareket", "Müzik", "Şarkı", "Bale"]
+},
+{
+  "word": "Göndermek",
+  "tabooWords": ["E-posta", "Mektup", "Almak", "Paket"]
+},
+{
+  "word": "Geç",
+  "tabooWords": ["Erken", "Toplantı", "Zaman", "Varış"]
+},
+{
+  "word": "Din",
+  "tabooWords": ["Tanrı", "İnanç", "Kültür", "İman"]
+},
+{
+  "word": "Kanepe",
+  "tabooWords": ["Oturmak", "Oda", "TV", "Rahatlamak"]
+},
+{
+  "word": "Bitirmek",
+  "tabooWords": ["Durmak", "Başlamak", "Tamam", "Görev"]
+},
+{
+  "word": "Elma",
+  "tabooWords": ["Kırmızı", "Meyve", "Turta", "Yemek"]
+},
+{
+  "word": "Çalışmak",
+  "tabooWords": ["Test", "Quiz", "Hatırlamak", "Okul"]
+},
+{
+  "word": "Otobüs",
+  "tabooWords": ["Binmek", "Taşıma", "Durak", "Toplu"]
+},
+{
+  "word": "Hava durumu",
+  "tabooWords": ["Yağmur", "Kar", "Güneş", "Tahmin"]
+},
+{
+  "word": "Hasta",
+  "tabooWords": ["İyi", "Soğuk", "Grip", "Doktor"]
+},
+{
+  "word": "Tatil",
+  "tabooWords": ["Gezi", "Çalışmak", "Seyahat", "Plaj"]
+},
+{
+  "word": "Spor salonu",
+  "tabooWords": ["Ağırlık", "Egzersiz", "Ter", "Çalışmak"]
+},
+{
+  "word": "Pencere",
+  "tabooWords": ["Cam", "Kapı", "Dışarı", "Açmak"]
+},
+{
+  "word": "Gitar",
+  "tabooWords": ["Enstrüman", "Müzik", "Çalmak", "Grup"]
+},
+{
+  "word": "Peynir",
+  "tabooWords": ["Süt", "Beyaz", "Pizza", "Sandviç"]
+},
+{
+  "word": "Yüzmek",
+  "tabooWords": ["Plaj", "Su", "Mayo", "Egzersiz"]
+}
     ]
   }
 }
